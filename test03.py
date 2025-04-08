@@ -4,3 +4,4 @@ def sayHello(name):
     
 name = 'yoona'
 print(sayHello(name))
+print("main 브랜치에서 새로운 커밋생성")
